@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing my programming skillsets as a software engineer student and building that programming mind. 
 - 🌱 I’m currently learning front-end web development mainly and have some future prospects to become full-stack developer along as cpp Object Oriented Programming.
 - 💞️ I’m looking to collaborate on Open source projects and other future ideas of mine.
-- 📫 How to reach me 👉  aamanuel505@gmail.com 
+- 📫 How to reach me 👉  blackonyxx20.4@gmail.com 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I ship clean code without caffeine dependencies!
 
