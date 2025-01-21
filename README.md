@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open source projects and other future ideas of mine.
 - 📫 How to reach me 👉  blackonyxx20.4@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I ship clean code without caffeine dependencies!
+- ⚡ Fun fact: Clean code without caffeine dependencies!
 
 <!---
 Manu3lde/Manu3lde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
