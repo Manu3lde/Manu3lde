@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Manu3lde<br>👀 I’m interested in developing my programming skillsets as a software engineer student and building the programming mind.<br>🌱 I’m currently learning front-end web frameworks mainly and have some future prospects to become divert into the backend or a potentially gamedev.<br>💞️ I’m looking to collaborate on Open source projects and other future ideas of mine.<br>📫 How to reach me 👉 blackonyxx20.4@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: Clean code without caffeine dependencies💪!
+👋 Hi, I’m @Manu3lde<br>👀 I’m interested in developing my programming skillsets as a software engineer student and building the programming mind.<br>🌱 Currently looking forward to become divert into the backend developer or potentially gamedev.<br>💞️ I’m looking to collaborate on Open source projects and other future ideas of mine.<br>📫 How to reach me 👉 blackonyxx20.4@gmail.com<br>😄 Pronouns: he/him<br>⚡ Fun fact: Clean code without caffeine dependencies💪!
 
 
 # 💻 Tech Stack:
